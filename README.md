@@ -1,6 +1,5 @@
 # Fetal_Health_Prediction
-  <a href="https://github.com/badges/shields/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
+
     <a href="https://circleci.com/gh/badges/shields/tree/master">
         <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
 * Data Set Name: Reproduction Child-healthcare Classification
