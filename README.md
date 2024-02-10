@@ -3,7 +3,6 @@
         <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
     <a href="https://circleci.com/gh/badges/shields/tree/master">
         <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
-    <a href="https://circleci.com/gh/badges/daily-tests">
 * Data Set Name: Reproduction Child-healthcare Classification
 *	Data set Link: https://www.kaggle.com/datasets/gauravduttakiit/reproductive-childhealthcare-classification
 a)	This dataset contains over 2000 records of about 21 features extracted from Cardiotocogram exams. This is further classified into 3 classes:
