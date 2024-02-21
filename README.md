@@ -11,7 +11,7 @@ iii.	Pathological
 - The Data undergoes pre-processing to remove outliers, then cross validated for better results. Models used include Decision Tree, Random Forest, XGBoost and Naive Bayes.
 
 #### Dataset 
-![Reproduction Child-healthcare Classification](https://www.kaggle.com/datasets/gauravduttakiit/reproductive-childhealthcare-classification)
+[Reproduction Child-healthcare Classification](https://www.kaggle.com/datasets/gauravduttakiit/reproductive-childhealthcare-classification)
 - This dataset has over 2100 records
 - Fetal_health is the target variable
 - It has 22 input variables including:
