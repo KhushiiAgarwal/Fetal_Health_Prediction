@@ -45,29 +45,30 @@ iii.	Pathological
   ```
   install.packages("ROSE")
   ```
-      ```
-      install.packages("rpart")
-      ```
-  
-      ```
-      install.packages("rpart.plot")
-      ```
-  
-      ```
-      install.packages("randomForest")
-      ```
-
-  ```
-        install.packages("e1071")
- ```
 
  ```
-    install.packages("xgboost")
-      ```
+install.packages("rpart")
+```
+  
+```
+install.packages("rpart.plot")
+```
+  
+```
+install.packages("randomForest")
+```
 
-      ```
-      install.packages("caret")
-      ```
+```
+install.packages("e1071")
+```
+
+```
+install.packages("xgboost")
+```
+
+```
+install.packages("caret")
+```
 ### Execution
 - Run the given code by downloading the file and ensure respective csv file is also in same directory
 - Set the directory using setwd command.
