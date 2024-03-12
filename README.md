@@ -38,41 +38,39 @@ iii.	Pathological
 ### Pre-requisites Required
 [R studio](https://posit.co/downloads/)  and [R Programming](https://cran.r-project.org/bin/windows/base/) to be installed using their official documentation.
 - Install both simultaneously & ensure version compatability. If either is already downloaded, upgrade it to latest version.
-   ```
-      install.packages("ggplot2")
+  ```
+  install.packages("ggplot2")
+  ```
 
-      ```
-      ```
-      install.packages("ROSE")
-
-      ```
+  ```
+  install.packages("ROSE")
+  ```
       ```
       install.packages("rpart")
-
       ```
+  
       ```
       install.packages("rpart.plot")
-
       ```
-    ```
+  
+      ```
       install.packages("randomForest")
+      ```
 
-      ```
-      ```
-      install.packages("e1071")
+  ```
+        install.packages("e1071")
+ ```
 
+ ```
+    install.packages("xgboost")
       ```
-      ```
-      install.packages("xgboost")
 
-      ```
       ```
       install.packages("caret")
-
       ```
 ### Execution
 - Run the given code by downloading the file and ensure respective csv file is also in same directory
 - Set the directory using setwd command.
 - Install the required packages
 
-If you find my repository helpful, please star⭐ it 🌟.
+###### If you find my repository helpful, please star⭐ it 🌟.
